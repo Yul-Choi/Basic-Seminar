@@ -1,2 +1,7 @@
 성별: 여성
+<<<<<<< HEAD
 Sex: female
+=======
+Sex: female
+짠짠짠
+>>>>>>> 6c72194780e3e966dadc851ae79b1cc649c0a822
